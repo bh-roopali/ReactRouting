@@ -36,7 +36,7 @@
     },
     {
         "name": "The Bodyguard",
-        "img": "images/bodyguard.png",
+        "img": "bodyguard.png",
         "type": "movie",
         "url" : "https://www.netflix.com/browse/genre/34399?jbv=321652&jbp=10&jbr=12"
     }
