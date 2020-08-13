@@ -25,18 +25,18 @@
         },
     {
         "name": "The Da Vinci Code",
-        "img": "images/vincicode.png",
+        "img": "./images/vincicode.png",
         "type": "movie",
         "url" : "https://www.netflix.com/browse/genre/34399?jbv=70035186&jbp=9&jbr=3"
     },
     {
         "name": "G R A V I T Y",
-        "img": "images/gravity.png",
+        "img": "./images/gravity.png",
         "url" : "https://www.netflix.com/browse/genre/34399?jbv=70274337&jbp=16&jbr=6"
     },
     {
         "name": "The Bodyguard",
-        "img": "bodyguard.png",
+        "img": "./ReactRouting/images/bodyguard.png",
         "type": "movie",
         "url" : "https://www.netflix.com/browse/genre/34399?jbv=321652&jbp=10&jbr=12"
     }
