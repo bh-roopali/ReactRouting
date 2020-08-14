@@ -1,37 +1,37 @@
 [
     {
     "name": "Event Horizon",
-    "img": "images/eventhorizon.png",
+    "img": "./ReactRouting/images/eventhorizon.png",
     "type": "movie",
      "url" : "https://www.netflix.com/browse/genre/34399?jbv=1179574&jbp=0&jbr=2"
     },
     {
         "name": "SHERLOCK",
-        "img": "images/sherlock.png",
+        "img": "./ReactRouting/images/sherlock.png",
         "type": "series",
          "url" : "https://www.netflix.com/browse/genre/83?so=su&jbv=70202589&jbp=4&jbr=0"
         },
     {
         "name": "The Firm",
-        "img": "images/thefirm.png",
+        "img": "./ReactRouting/images/thefirm.png",
         "type": "movie",
         "url" : "https://www.netflix.com/browse/genre/34399?jbv=60000210&jbp=10&jbr=1"
     },
     {
         "name": "Cursed",
-        "img": "images/cursed.png",
+        "img": "./ReactRouting/images/cursed.png",
         "type": "series",
          "url" : "https://www.netflix.com/browse/genre/83?so=su&jbv=80199393&jbp=0&jbr=2"
         },
     {
         "name": "The Da Vinci Code",
-        "img": "./images/vincicode.png",
+        "img": "./ReactRouting/images/vincicode.png",
         "type": "movie",
         "url" : "https://www.netflix.com/browse/genre/34399?jbv=70035186&jbp=9&jbr=3"
     },
     {
         "name": "G R A V I T Y",
-        "img": "./images/gravity.png",
+        "img": "./ReactRouting/images/gravity.png",
         "url" : "https://www.netflix.com/browse/genre/34399?jbv=70274337&jbp=16&jbr=6"
     },
     {
